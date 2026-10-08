@@ -1,5 +1,5 @@
 context:
-  version: "0.20250815.1"
+  version: "0.20261004"
 
 package:
   name: ccls
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/MaskRay/ccls/archive/refs/tags/${{ version }}.tar.gz
-  sha256: b44d9f981e65dcf950525886f8211727da8a41d3070d323d558f950749bc493c
+  sha256: 8e022718ac8d54aef36cd728a177ad036994d7abf535941b948ae14d1a9085dd
 
 build:
   number: 0
